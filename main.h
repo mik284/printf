@@ -6,7 +6,7 @@
 #include <assert.h>
 #include <stdbool.h>
 
-* macros */
+/* macros */
 #define FLUSH -1
 #define PF_INIT {false, false, false}
 #define NIL "(nil)"
