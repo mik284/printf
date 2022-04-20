@@ -51,7 +51,7 @@ int print_hex_big(va_list l, flags_t *f)
  * if a flag is passed to _printf
  * Description: the function calls convert() which in turns converts the input
  * number into the correct base and returns it as a string
- * Return: the number of char printed
+ * Return: the number of char print
  */
 int print_binary(va_list l, flags_t *f)
 {
